@@ -1,0 +1,12 @@
+D:\Applications\App1\App1\App1\bin\Release\netstandard2.0\App1.deps.json
+D:\Applications\App1\App1\App1\bin\Release\netstandard2.0\App1.dll
+D:\Applications\App1\App1\App1\bin\Release\netstandard2.0\App1.pdb
+D:\Applications\App1\App1\App1\obj\Release\netstandard2.0\App1.csprojAssemblyReference.cache
+D:\Applications\App1\App1\App1\obj\Release\netstandard2.0\App.xaml.g.cs
+D:\Applications\App1\App1\App1\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+D:\Applications\App1\App1\App1\obj\Release\netstandard2.0\App1.csproj.CoreCompileInputs.cache
+D:\Applications\App1\App1\App1\obj\Release\netstandard2.0\App1.AssemblyInfoInputs.cache
+D:\Applications\App1\App1\App1\obj\Release\netstandard2.0\App1.AssemblyInfo.cs
+D:\Applications\App1\App1\App1\obj\Release\netstandard2.0\XamlC.stamp
+D:\Applications\App1\App1\App1\obj\Release\netstandard2.0\App1.dll
+D:\Applications\App1\App1\App1\obj\Release\netstandard2.0\App1.pdb

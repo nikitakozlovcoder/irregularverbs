@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "mXq21mcAQVeJ6AUdIu2PvY95t9vcQxp2zzyozYjel0rMe1Si5mRTguuatI6WJxEDQWwfJuQ03sgIazFzovTeqQ==",
+  "success": true,
+  "projectFilePath": "D:\\Applications\\App1\\App1\\App1\\App1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nik\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Nik\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Nik\\.nuget\\packages\\xamarin.forms\\4.4.0.991640\\xamarin.forms.4.4.0.991640.nupkg.sha512"
+  ],
+  "logs": []
+}

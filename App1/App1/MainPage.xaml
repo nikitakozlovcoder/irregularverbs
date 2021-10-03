@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:App1"
+             xmlns:viewModels="clr-namespace:App1.ViewModels;assembly=App1"
+             x:Class="App1.MainPage" x:DataType="viewModels:MainPageVm">
+    <StackLayout
+        Padding="20,0"
+        VerticalOptions="Center">
+        <!-- Place new controls here -->
+        <Label Text="{Binding Path=CheckResult.Summary}" 
+               HorizontalOptions="Center"
+               VerticalOptions="CenterAndExpand" />
+        <Label Text="{Binding Path=CurrentQuestion.VerbText}" 
+               HorizontalOptions="Center"
+           VerticalOptions="CenterAndExpand" />
+        <Entry Text="{Binding Path=Answer, Mode=TwoWay}"/>
+        <Button Text="Check" Command="{Binding CheckCommand}" />
+        <Button Text="Skip" Command="{Binding SkipCommand}" />
+    </StackLayout>
+
+</ContentPage>
